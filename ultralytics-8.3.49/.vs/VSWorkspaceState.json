@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ultralytics",
+    "\\ultralytics\\cfg",
+    "\\ultralytics\\cfg\\models",
+    "\\ultralytics\\cfg\\models\\v8",
+    "\\ultralytics\\nn",
+    "\\ultralytics\\nn\\modules"
+  ],
+  "SelectedNode": "\\ultralytics\\cfg\\models\\v8\\yolov8-cls.yaml",
+  "PreviewInSolutionExplorer": false
+}
